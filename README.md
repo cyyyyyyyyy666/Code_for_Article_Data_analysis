@@ -62,7 +62,7 @@ If you wish to contribute to this project, please fork the repository and create
 
 We thank the reviewers for their constructive feedback, which has significantly improved the quality and rigor of our research.
 
-For further questions or inquiries, please contact [feili36@ccmu.com.cn].
+For further questions or inquiries, please contact [feili36@ccmu.edu.cn].
 
 ---
 
